@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/solana-improvement-documents
 
 # Raycast specific files
 raycast-env.d.ts
